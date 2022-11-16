@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["MatPixelType",""]],"fn":[["version",""]],"struct":[["Allocator",""],["DataReader",""],["Extractor",""],["Mat",""],["Net",""],["Option",""]],"type":[["ReadFn",""],["ScanFn",""]]};
